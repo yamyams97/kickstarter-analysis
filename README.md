@@ -81,4 +81,4 @@ The overall pro is having cleaner code as well as code that is easier to interpe
 The biggest benefit in refactoring our initial stock analysis was a decrease in macro run time. The initial run time was about .5 seconds, and with our refactored code, the macro ran in less than .1 seconds! Talk about efficiancy. Pictured below are the run times for the 2017 and 2018 stock analysis. 
 
 ![This is an image]https://github.com/yamyams97/kickstarter-analysis/blob/main/Resources/VBA_Challenge_2017.png
-![This is an image]
+![This is an image]https://github.com/yamyams97/kickstarter-analysis/blob/main/Resources/VBA_Challenge_2018.png
